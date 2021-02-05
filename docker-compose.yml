@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+   
+
+networks:
+    coffee-machine_net:
+        external: true

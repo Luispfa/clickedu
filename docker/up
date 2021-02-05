@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker build docker/images/php-cli -t clickedu.php-cli
